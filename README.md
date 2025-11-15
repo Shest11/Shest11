@@ -1,9 +1,13 @@
-# Hi guys 👋
+# 👋 Hi there, I'm Danila Shestakov
 
-## **I'm Danila Shestakov**😎
+**Student at Irkutsk State University** 🎓 | **Majoring in Computer Science and Software Development** 💻
 
-*I'm student of Irkutsk State University*👨‍🎓
+---
 
-*My profile of education is **computer science and development***💻
+### 🚀 About Me:
 
-<img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVsN3hla2M4eHl5MW1zMTRnZWdzcGswcXAxa2Y3djE1ajV5NzlrMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif">
+*   🧠 Passionate about programming and computer science fundamentals
+*   💡 Enjoy solving complex problems and building interesting projects
+*   🎯 Focused on growing as a professional in the IT industry
+*   🌱 Constantly learning new technologies and improving my skills
+*   🔭 Exploring different areas of software development to find my specialization
