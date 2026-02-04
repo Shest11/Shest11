@@ -11,3 +11,10 @@
 *   🎯 Focused on growing as a professional in the IT industry
 *   🌱 Constantly learning new technologies and improving my skills
 *   🔭 Exploring different areas of software development to find my specialization
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,py,html,css,js" />
+  </a>
+</p>
+
