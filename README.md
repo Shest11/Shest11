@@ -13,6 +13,6 @@
 *   🔭 Exploring different areas of software development to find my specialization
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,java" />
   </a>
 
